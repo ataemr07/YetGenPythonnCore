@@ -1,2 +1,2 @@
 # YetGenPythonnCore
-Bu bölümde repo proje başlangıcıdır.
+Bu bölümde repo proje başlangıcıdır. 
